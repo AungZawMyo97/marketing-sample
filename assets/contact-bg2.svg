@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2969.411" height="2969.411" viewBox="0 0 2969.411 2969.411">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.119" y1="0.577" x2="0.5" y2="0.577" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6156f9"/>
+      <stop offset="1" stop-color="#1a129f"/>
+    </linearGradient>
+  </defs>
+  <path id="Bg_Shape" data-name="Bg Shape" d="M2328.609,2409.575s1.578,61.769.063,167.289c-102.022,72.653-249.011,56.705-464.25-279.329-403.067-629.275-1054.906-4.592-1209.2-613.344S-64.962,1186.431,117.236,664.605c24.882-2.734,2206.57-4.061,2206.57-4.061l2.8,556.366-.934,173.611.934,494.435,2,327.3Z" transform="translate(3494.109 1789.402) rotate(135)" fill="url(#linear-gradient)"/>
+</svg>
